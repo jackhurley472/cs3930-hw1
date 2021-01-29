@@ -1,3 +1,5 @@
+Name: Jack Hurley, UNI: jth2165
+
 The hardware setup is very basic, I used pin 4 for the power supply,
 pin 14 for ground, and pin 12 (GPIO 18) for output. 
 For the scripts to run on boot, you need to add the line
