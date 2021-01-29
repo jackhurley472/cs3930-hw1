@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=Covid
+Exec=sudo /home/pi/Processing/hw1/application.linux-armv6hf/./hw1
